@@ -7,10 +7,10 @@ We are trying to automate the windows games first racing games controls using at
 <img src='https://github.com/vsltech/braingamesimulator/blob/master/cover2.png'>
 # DirectX works with Scancodes for Direct Input
 <br>
-For best results install NeroSky Mindwave Apps & train your brain: https://store.neurosky.com/products/blink-zone
+For best results install NeroSky Mindwave Apps & train your brain: https://store.neurosky.com/products/blink-zone<br>
 Check attention/meditation values using my code & prepare with simple brain exercises:: https://github.com/vsltech/neuroskymindwavecapture
 <br>
-*Install thinkgear connector: https://store.neurosky.com/products/pc-developer-tools 
+*Install thinkgear connector: https://store.neurosky.com/products/pc-developer-tools <br>
 Dependencies: PyWin32, Mindwave, Python2.7, PyQt4(Core & Designer), ThinkGear Connector<br>
 *I used Python2.7 64-bit on Windows10 OS
 <li>PyWin32: Download & Install from below links<br>
