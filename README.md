@@ -20,20 +20,20 @@ Using pip: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pywin32
 <li>
   PyQt4: https://riverbankcomputing.com/software/pyqt/download
 </li>
-<br>
--Insert USB Dongle(TCP/IP) connector of NeuroSky Mindwave Headset
--Check COM Port from from Windows Device Manager: Screenshot uploaded above
--Double Click/Run: python eegs.py (https://github.com/vsltech/braingamesimulator/blob/master/eegs.py)
--Enter COM Port then click Connect
--Enter your threshold: 40 is best for all different age groups tested so far
--Run this program in background, once Headset led turns green you will start seeing attention, meditation & eye blink values. Don't shake headset as raw values flickers with small change on contact from frontal lobe/forehead.<br>
--Start the game you want to play & enjoy!
--Asphalt8 Calibration: Turn Off Auto-acceleration & Switch to Key Controls
+<br><br>
+-Insert USB Dongle(TCP/IP) connector of NeuroSky Mindwave Headset<br>
+-Check COM Port from from Windows Device Manager: Screenshot uploaded above<br>
+-Double Click/Run: python eegs.py (https://github.com/vsltech/braingamesimulator/blob/master/eegs.py)<br>
+-Enter COM Port then click Connect<br>
+-Enter your threshold: 40 is best for all different age groups tested so far<br>
+-Run this program in background, once Headset led turns green you will start seeing attention, meditation & eye blink values. Don't shake headset as raw values flickers with small change on contact from frontal lobe/forehead.<br><br>
+-Start the game you want to play & enjoy!<br>
+-Asphalt8 Calibration: Turn Off Auto-acceleration & Switch to Key Controls<br>
 <br>
 (*Updates & Fixes include: GUI Control & game control enhancements)
 EDITS in the code: braingamesimulator.py<br>
 *headset = mindwave.Headset(<ENTER_YOUR_COM_PORT_IN_DEVICE_MANAGER>, 'CC0E')<br>
 Calibration: Edit your threshold value with your attention/meditation values
 <br>
-For issues read this: http://www.vslcreations.com/2017/05/neurosky-mindwave-issues-beginners-guide.html
+For issues read this: http://www.vslcreations.com/2017/05/neurosky-mindwave-issues-beginners-guide.html<br>
 Ref/Credits: https://github.com/BarkleyUS/mindwave-python, <a href="https://www.linkedin.com/in/utkal-sharma-b70b7265/" target="_blank">Utkal Sharma</a>
